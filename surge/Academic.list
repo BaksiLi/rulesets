@@ -2,7 +2,8 @@
 # so that they can be filtered for subnet/proxy rules.
 # Only experimental
 
-DOMAIN,journals.aps.org
+# APS
+DOMAIN-SUFFIX,journals.aps.org
 
 # Springer Nature
 DOMAIN-SUFFIX,springernature.com
