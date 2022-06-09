@@ -5,6 +5,17 @@
 # APS
 DOMAIN-SUFFIX,journals.aps.org
 
+# Clarivate
+DOMAIN-SUFFIX,webofknowledge.com
+
 # Springer Nature
 DOMAIN-SUFFIX,springernature.com
 DOMAIN-SUFFIX,nature.com
+
+# Elsevier
+DOMAIN-SUFFIX,sciencedirect.com
+DOMAIN-SUFFIX,scopus.com
+DOMAIN-SUFFIX,elsevier.com
+
+#
+DOMAIN-SUFFIX,frontiersin.org
