@@ -1,0 +1,9 @@
+# This is used to filter academic publication sets
+# so that they can be filtered for subnet/proxy rules.
+# Only experimental
+
+DOMAIN,journals.aps.org
+
+# Springer Nature
+DOMAIN-SUFFIX,springernature.com
+DOMAIN-SUFFIX,nature.com
