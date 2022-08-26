@@ -1,0 +1,25 @@
+# This is used with Tsinghua Univ. VPN access
+# For more rules, check https://lib.tsinghua.edu.cn/tjfw/xwfw.htm
+
+# 信息门户
+DOMAIN,info.tsinghua.edu.cn
+DOMAIN,info2021.tsinghua.edu.cn
+
+# 选课系统
+DOMAIN,zhjwxk.cic.tsinghua.edu.cn
+DOMAIN,zhjwxkyw.cic.tsinghua.edu.cn
+
+# 人民日報圖文數據庫
+DOMAIN,data.people.com.cn
+DOMAIN,paper.people.com.cn
+
+# 台灣文獻叢刊資料庫（鏡像）
+DOMAIN,twwxck.lib.tsinghua.edu.cn
+
+# DO NOT USE VPN WITH:
+# WebVPN
+# webvpn.tsinghua.edu.cn
+# 校外访问控制系统 Off-campus access system via Eproxy 
+# eproxy.lib.tsinghua.edu.cn
+# 智能网关 eResource Gateway
+# tlink.lib.tsinghua.edu.cn
