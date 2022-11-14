@@ -19,3 +19,6 @@ DOMAIN-SUFFIX,elsevier.com
 
 #
 DOMAIN-SUFFIX,frontiersin.org
+
+# Optica (OSA)
+DOMAIN-SUFFIX,opg.optica.org
