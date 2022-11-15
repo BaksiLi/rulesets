@@ -2,11 +2,17 @@
 # websites which are often blocked by proxy providers.
 
 # BitTorrent
-DOMAIN-SUFFIX, bittorrent.com
+DOMAIN-KEYWORD, bittorrent
 
 # Clients
 # µTorrent
 DOMAIN-SUFFIX, utorrent.com
+# qBittorrent
+DOMAIN-SUFFIX, qbittorrent.org
+# Transmission
+DOMAIN-SUFFIX, transmissionbt.com
+# BiglyBT
+DOMAIN-SUFFIX, biglybt.com
 
 # Packet
 # (torrent|\.torrent|peer_id=|info_hash|get_peers|find_node|BitTorrent|announce_peer|announce\.php\?passkey=|Joker)
