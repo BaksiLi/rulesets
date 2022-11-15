@@ -1,5 +1,6 @@
 # This ruleset includes BitTorrent (BT)–related
 # websites which are often blocked by proxy providers.
+# P.S. I also suggest using PROCESS-NAME to filter BT traffics.
 
 # BitTorrent
 DOMAIN-KEYWORD, bittorrent
@@ -9,6 +10,8 @@ DOMAIN-KEYWORD, bittorrent
 DOMAIN-SUFFIX, utorrent.com
 # qBittorrent
 DOMAIN-SUFFIX, qbittorrent.org
+# 
+DOMAIN-SUFFIX, jdownloader.org
 # Transmission
 DOMAIN-SUFFIX, transmissionbt.com
 # BiglyBT
