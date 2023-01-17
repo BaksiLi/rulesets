@@ -3,9 +3,9 @@ DOMAIN-SUFFIX,barclays.com
 DOMAIN-SUFFIX,barclays.mobi
 DOMAIN-SUFFIX,barclays.co.uk
 DOMAIN-SUFFIX,barclays
-DOMAIN-KEYWORD,barc.ly
-DOMAIN-KEYWORD,bclays-ads
-DOMAIN-KEYWORD,barclaysuk
+#DOMAIN-KEYWORD,barc.ly
+#DOMAIN-KEYWORD,bclays-ads
+#DOMAIN-KEYWORD,barclaysuk
 
 # Other domains
 DOMAIN-SUFFIX,aboutbarclays.com
