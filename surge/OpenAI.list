@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,open-ai-chat-omega.vercel.app
 
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,auth0.com
