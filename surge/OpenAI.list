@@ -1,4 +1,7 @@
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+PROCESS-NAME,ChatGPT
+
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
