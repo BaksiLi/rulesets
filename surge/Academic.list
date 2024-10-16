@@ -5,6 +5,9 @@
 # APS
 DOMAIN-SUFFIX,journals.aps.org
 
+# AIP
+DOMAIN-SUFFIX,pubs.aip.org
+
 # Clarivate
 DOMAIN-SUFFIX,webofknowledge.com
 
