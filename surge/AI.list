@@ -1,0 +1,49 @@
+# Surge Ruleset for AI and Tech Services
+
+# OpenAI (Restricted in China, Russia, Iran, and other unsupported regions)
+DOMAIN-SUFFIX,openai.com # OpenAI
+DOMAIN-SUFFIX,chat.openai.com # OpenAI ChatGPT
+DOMAIN-SUFFIX,challenges.cloudflare.com # OpenAI CloudFlare protection
+DOMAIN-SUFFIX,auth0.openai.com # OpenAI authentication
+DOMAIN-SUFFIX,platform.openai.com # OpenAI API platform
+
+# Anthropic (Restricted in EU countries and Canada)
+DOMAIN-SUFFIX,anthropic.com # Anthropic
+DOMAIN-SUFFIX,claude.ai # Anthropic's Claude AI
+
+# Google (Bard restricted in EU countries and Canada)
+DOMAIN-SUFFIX,bard.google.com # Google Bard
+DOMAIN-SUFFIX,apis.google.com # Google APIs
+DOMAIN-SUFFIX,generativelanguage.googleapis.com # Google PaLM API
+
+# Microsoft (Azure OpenAI Service has regional restrictions)
+DOMAIN-SUFFIX,bing.com # Microsoft Bing
+
+# DeepMind
+DOMAIN-SUFFIX,deepmind.com # DeepMind
+DOMAIN-SUFFIX,deepmind.google # DeepMind (Google)
+
+# Hugging Face
+DOMAIN-SUFFIX,huggingface.co # Hugging Face
+
+# Stability AI
+DOMAIN-SUFFIX,stability.ai # Stability AI
+
+# Midjourney
+DOMAIN-SUFFIX,midjourney.com # Midjourney
+
+# Jasper
+DOMAIN-SUFFIX,jasper.ai # Jasper AI
+
+# Cohere
+DOMAIN-SUFFIX,cohere.ai # Cohere AI
+
+# Perplexity AI
+DOMAIN-SUFFIX,perplexity.ai # Perplexity AI
+
+# Poe (Restricted in some regions)
+DOMAIN-SUFFIX,poe.com # Poe AI
+
+# xAI (Grok, restricted in some regions)
+DOMAIN-SUFFIX,x.ai # xAI
+DOMAIN-SUFFIX,grok.x.ai # Grok AI
